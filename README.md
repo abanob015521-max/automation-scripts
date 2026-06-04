@@ -1,2 +1,13 @@
-# automation-scripts
-Small scripts and automation experiments for learning and productivity.
+# Automation Scripts
+
+A collection of small automation and utility scripts for learning and productivity.
+
+## Goals
+
+- Learn automation concepts
+- Practice Python scripting
+- Build useful tools
+
+## Status
+
+Currently under development.
